@@ -1,4 +1,3 @@
-# citc_1300_webt_1320_upload
 
 <h1>Basic Web Design</h1>
 
