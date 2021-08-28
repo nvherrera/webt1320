@@ -1,10 +1,10 @@
 body {
-    background-color: #4C5973;
+    background-color: #8F746E;
     font-family: 'Montserrat', sans-serif;
 }
 
 #container {
-    background-color: #F26D6D;
+    background-color: #D9B0A7;
     width: 900px;
     margin: 20px auto;
     border-radius: 20px;
@@ -12,8 +12,8 @@ body {
 }
 
 header {
-    padding-top: 20px 0;
-    background-color: #CEF299;
+    padding-top: 20px;
+    background-color: white;
     border-radius: 20px 20px 0 0;
 }
 
@@ -26,13 +26,13 @@ header img {
 header h1 {
     font-size: 2.5em;
     text-align: center;
-    color: #F26D6D;
+    color: #8F746E;
     font-family: 'Montserrat', sans-serif;
     text-shadow: 2px 2px 2px black;
 }
 
 nav {
-    background-color: #F26D6D;
+    background-color: #D9B0A7;
     padding-top: 10px;
     text-align: center;
 
@@ -40,13 +40,13 @@ nav {
 
 nav a {
     display: inline-block;
-    background-color: #CEF299;
+    background-color: white;
     height: 50px;
     width: 175px;
-    font-size: 1.5 em;
+    font-size: 1.5em;
     font-weight: bold;
     line-height: 50px;
-    color: #4C5973;
+    color: #8F746E;
     text-decoration: none;
     border-radius: 10px 10px 0 0;
     margin: 0 10px;
@@ -54,19 +54,34 @@ nav a {
 }
 
 nav a:hover {
-    background-color: #4C5973;
-    color: #CEF299;
+    background-color: #8F746E;
+    color: white;
 }
 
 main {
-    background-color: #CEF299;
+    background-color: white;
     padding: 20px;
     margin: 0 20px 20px 20px;
+    text-align: center;
 }
 
 main h2 {
     text-align: center;
-    color: #4C5973;
+    color: #8F746E;
+    font-size: 2em;
+    font-family: 'Montserrat', sans-serif;
+}
+
+main h3 {
+    text-align: center;
+    color: #8F746E;
+    font-size: 2em;
+    font-family: 'Montserrat', sans-serif;
+}
+
+main h4 {
+    text-align: center;
+    color: #8F746E;
     font-size: 2em;
     font-family: 'Montserrat', sans-serif;
 }
@@ -75,28 +90,28 @@ main img {
     display: block;
     width: 50%;
     margin: 20px auto;
-    background-color: #4C5973;
+    background-color: #8F746E;
     padding: 20px;
     border-radius: 20px;
 }
 
 footer {
-    background-color: #CEF299;
+    background-color: white;
     padding: 60px 0;
-    color: #F26D6D;
+    color: #D9B0A7;
     font-size: 1.5em;
     text-align: center;
     border-radius: 0 0 20px 20px;
 }
 
 .active {
-    background-color: #4C5973;
-    color: #CEF299;
+    background-color: #8F746E;
+    color: white;
 }
 
 .pro_head {
     text-align: center;
-    color:#F26D6D;
-    font-size: 1.5 em;
+    color: #8F746E;
+    font-size: 1.5em;
     font-family: 'Montserrat', sans-serif;
 }
